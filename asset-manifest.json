@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/demo-govuk-accordion-react/static/css/main.afd57894.css",
+    "main.js": "/demo-govuk-accordion-react/static/js/main.861eb2b7.js",
+    "static/media/light-f591b13f7d-v2.woff": "/demo-govuk-accordion-react/static/media/light-f591b13f7d-v2.f03d82c283b021916f42.woff",
+    "static/media/bold-affa96571d-v2.woff": "/demo-govuk-accordion-react/static/media/bold-affa96571d-v2.b092ddd69e01e5fb0b66.woff",
+    "static/media/light-94a07e06a1-v2.woff2": "/demo-govuk-accordion-react/static/media/light-94a07e06a1-v2.bb962e0c1aef34ea7e4a.woff2",
+    "static/media/bold-b542beb274-v2.woff2": "/demo-govuk-accordion-react/static/media/bold-b542beb274-v2.616e5f212d1bb513477e.woff2",
+    "static/media/logo.svg": "/demo-govuk-accordion-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo-govuk-accordion-react/index.html",
+    "main.afd57894.css.map": "/demo-govuk-accordion-react/static/css/main.afd57894.css.map",
+    "main.861eb2b7.js.map": "/demo-govuk-accordion-react/static/js/main.861eb2b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd57894.css",
+    "static/js/main.861eb2b7.js"
+  ]
+}
