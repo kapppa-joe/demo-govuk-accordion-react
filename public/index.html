@@ -28,6 +28,8 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
     <div id="root"></div>
     <!--
       This HTML file is a template.
@@ -39,5 +41,10 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <script src="scripts/govuk.js"></script>
+      <script>
+        window.GOVUKFrontend.initAll()
+      </script>
   </body>
 </html>
